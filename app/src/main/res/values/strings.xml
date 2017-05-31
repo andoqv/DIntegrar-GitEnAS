@@ -2,4 +2,6 @@
     <string name="app_name">DIntegrar-Git</string>
     <string name="hello_world">hello world!</string>
     <string name="prueba_git_android">Prueba Git-Android</string>
+    <string name="texto_secundario">Aprendiendo a
+    deshacer commits en Git</string>
 </resources>
